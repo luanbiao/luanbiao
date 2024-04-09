@@ -24,8 +24,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dentodos" height="30" width="40" src="">
-  <img align="center" alt="Tiotê" height="30" width="40" src="https://tiote.com.br/tiote_t.png">
-  <img align="center" alt="Apollo" height="30" width="40" src="https://zeus.tiote.com.br/imgs/apolo.png"> 
+  <img align="center" alt="Tiotê" height="60" src="https://tiote.com.br/tiote_t.png">
+  <img align="center" alt="Apollo" height="60" src="https://zeus.tiote.com.br/imgs/apolo.png"> 
   <img align="center" alt="Ares" height="30" width="40" src="https://zeus.tiote.com.br/imgs/ares.png">
   <img align="center" alt="Hermes" height="30" width="40" src="https://zeus.tiote.com.br/imgs/hermes.png">
   <img align="center" alt="Athena" height="30" width="40" src="https://zeus.tiote.com.br/imgs/athena.png">
