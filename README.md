@@ -25,18 +25,18 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dentodos" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" style="margin-right: 10px;">
-  <img align="center" alt="Hamgnarok" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" style="margin-right: 10px;">
-  <img align="center" alt="Apollo" height="60" src="https://zeus.tiote.com.br/imgs/apolo.png" style="margin-right: 10px;"> 
-  <img align="center" alt="Tiotê" height="60" src="https://tiote.com.br/tiote_t.png" style="margin-right: 10px;">
-  <img align="center" alt="Athena" height="60" src="https://zeus.tiote.com.br/imgs/athena.png" style="margin-right: 10px;">
-  <img align="center" alt="Ares" height="60" src="https://zeus.tiote.com.br/imgs/ares.png" style="margin-right: 10px;">
-  <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp" style="margin-right: 10px;"> 
-  <img align="center" alt="Brascity" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" style="margin-right: 10px;">  
-  <img align="center" alt="Fefute" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" style="margin-right: 10px;">  
-  <img align="center" alt="Patriapp" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_black.png" style="margin-right: 10px;">  
-  <img align="center" alt="Magic Selling" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" style="margin-right: 10px;">  
-  <img align="center" alt="Vitamina Nerd" height="60" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px;">
+  <img align="center" alt="Dentodos" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" style="margin-right: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Hamgnarok" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" style="margin-right: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Apollo" height="60" src="https://zeus.tiote.com.br/imgs/apolo.png" style="margin-right: 10px; margin-bottom: 10px;"> 
+  <img align="center" alt="Tiotê" height="60" src="https://tiote.com.br/tiote_t.png" style="margin-right: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Athena" height="60" src="https://zeus.tiote.com.br/imgs/athena.png" style="margin-right: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Ares" height="60" src="https://zeus.tiote.com.br/imgs/ares.png" style="margin-right: 10px; margin-bottom: 10px;">
+  <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp" style="margin-right: 10px; margin-bottom: 10px;"> 
+  <img align="center" alt="Brascity" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" style="margin-right: 10px; margin-bottom: 10px;">  
+  <img align="center" alt="Fefute" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" style="margin-right: 10px; margin-bottom: 10px;">  
+  <img align="center" alt="Patriapp" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_black.png" style="margin-right: 10px; margin-bottom: 10px;">  
+  <img align="center" alt="Magic Selling" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" style="margin-right: 10px; margin-bottom: 10px;">  
+  <img align="center" alt="Vitamina Nerd" height="60" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px; margin-bottom: 10px;">
 </div>
 
 <br/><br/>
