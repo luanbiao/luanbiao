@@ -33,3 +33,31 @@
   <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp"> 
   <img align="center" alt="Magic Selling" height="60"  src="">  
 </div>
+
+Ahhh, oláááá! 👋👋👋
+
+Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principais projetos e seus respectivos status e links.
+
+| Projeto       | Status       | Link | Repositório                                      |
+|---------------|--------------|----------------|-------------------------------------------|
+| Dentodos      | 🚧 Em desenvolvimento  | [Acessar Dentodos](https://dentodos.com.br) | [Link do Projeto Dentodos](https://github.com/luanbiao/dentodos) |
+| Hamgnarok     | ⚠️ Em testes     | [Baixar Hamgnarok](https://#)      | [Link do Projeto Hamgnarok](https://github.com/luanbiao/hamgnarok) |
+| Apollo        | ⚠️ Em testes     | [Acessar Apollo](https://apollo.tiote.com.br)     | [Link do Projeto Apollo](https://github.com/luanbiao/apollo) |
+| Tiotê         | 🚧 Em desenvolvimento  | [Acessar Tiotê](https://tiote.com.br)     | [Link do Projeto Tiotê](https://github.com/luanbiao/tiote) |
+| PdfML         | 🕒 Pendente      | Indisponível   | [Link do Projeto PdfML](https://github.com/luanbiao/pdfml) |
+| Athena        | 🕒 Pendente      | [Baixar Athena](https://zeus.tiote.com.br)    | [Link do Projeto Athena](https://github.com/luanbiao/athena) |
+| Ares          | 🕒 Pendente      | [Baixar Ares](https://zeus.tiote.com.br)    | [Link do Projeto Ares](https://github.com/luanbiao/ares) |
+| Desesquecedor | 🚧 Em desenvolvimento  | 🟢 [Acessar Desesquecedor](https://desesquecedor.com.br)    | Indisponível |
+| Brascity      | ❌ Cancelado     | Indisponível    | [Link do Projeto Brascity](https://github.com/luanbiao/brascity) |
+| Fefute        | 🚧 Em desenvolvimento  | [Acessar Fefute](https://fefute.com.br)     | [Link do Projeto Fefute](https://github.com/luanbiao/fefute) |
+| Patriapp      | ❌ Cancelado     | Indisponível no momento     | [Link do Projeto Patriapp](https://github.com/luanbiao/patriapp) |
+| Magicselling  | ✅ Concluído     | Privado | [Link do Projeto Magic Selling](https://github.com/luanbiao/magicselling) |
+| Vitamina Nerd | ✅ Concluído    | [Acessar Vitamina Nerd](https://vitaminanerd.com.br)      | [Link do Projeto Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
+
+🚧 Em desenvolvimento
+⚠️ Em testes  
+🕒 Pendente
+❌ Cancelado
+✅ Concluído
+
+
