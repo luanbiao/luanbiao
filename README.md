@@ -26,10 +26,10 @@
   <img align="center" alt="Dentodos" height="30" width="40" src="">
   <img align="center" alt="Tiotê" height="60" src="https://tiote.com.br/tiote_t.png">
   <img align="center" alt="Apollo" height="60" src="https://zeus.tiote.com.br/imgs/apolo.png"> 
-  <img align="center" alt="Ares" height="30" width="40" src="https://zeus.tiote.com.br/imgs/ares.png">
-  <img align="center" alt="Hermes" height="30" width="40" src="https://zeus.tiote.com.br/imgs/hermes.png">
-  <img align="center" alt="Athena" height="30" width="40" src="https://zeus.tiote.com.br/imgs/athena.png">
-  <img align="center" alt="Poseidon" height="30" width="40" src="https://zeus.tiote.com.br/imgs/poseidon.png">
-  <img align="center" alt="Desesquecedor" height="30" width="40" src="https://desesquecedor.com.br/img/logo2.webp"> 
-  <img align="center" alt="Magic Selling" height="30" width="40" src="">  
+  <img align="center" alt="Ares" height="60" src="https://zeus.tiote.com.br/imgs/ares.png">
+  <img align="center" alt="Hermes" height="60"  src="https://zeus.tiote.com.br/imgs/hermes.png">
+  <img align="center" alt="Athena" height="60" src="https://zeus.tiote.com.br/imgs/athena.png">
+  <img align="center" alt="Poseidon" height="60" src="https://zeus.tiote.com.br/imgs/poseidon.png">
+  <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp"> 
+  <img align="center" alt="Magic Selling" height="60"  src="">  
 </div>
