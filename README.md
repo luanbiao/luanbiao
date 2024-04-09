@@ -39,6 +39,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
   <img align="center" alt="Vitamina Nerd" height="60" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px;">
 </div>
 
+<br/>
 
 | Projeto       | Status       | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
