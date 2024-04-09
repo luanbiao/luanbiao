@@ -31,7 +31,7 @@
   <img align="center" alt="Athena" height="60" src="https://zeus.tiote.com.br/imgs/athena.png">
   <img align="center" alt="Poseidon" height="60" src="https://zeus.tiote.com.br/imgs/poseidon.png">
   <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp"> 
-  <img align="center" alt="Magic Selling" height="60"  src="">  
+  <img align="center" alt="Magic Selling" height="60"  src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png">  
   <img align="center" alt="Vitamina Nerd" height="60" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png">
 </div>
 
