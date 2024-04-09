@@ -39,9 +39,9 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
   <img align="center" alt="Vitamina Nerd" height="60" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px; margin-bottom: 10px;">
 </div>
 
-<br/><br/>
+<br/><br/>  
 
-| Projeto       | Status | Link | Repositório                                      |
+  | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
 | Dentodos      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
 | Hamgnarok     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
@@ -57,10 +57,12 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 | Magicselling  | ✅ | Privado | [Magic Selling](https://github.com/luanbiao/magicselling) |
 | Vitamina Nerd | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
+  <div style="display: inline_block"><br>
 🚧 Em desenvolvimento
 ⚠️ Em testes  
 🕒 Pendente
 ❌ Cancelado
 ✅ Concluído
+</div>
 
 
