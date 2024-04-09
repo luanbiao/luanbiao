@@ -24,6 +24,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dentodos" height="30" width="40" src="">
+  <img align="center" alt="Hamgnarok" height="30" src="https://desesquecedor.com.br/uploads/1/anexos/icone.png">
   <img align="center" alt="Tiotê" height="60" src="https://tiote.com.br/tiote_t.png">
   <img align="center" alt="Apollo" height="60" src="https://zeus.tiote.com.br/imgs/apolo.png"> 
   <img align="center" alt="Ares" height="60" src="https://zeus.tiote.com.br/imgs/ares.png">
