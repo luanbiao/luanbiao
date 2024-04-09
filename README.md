@@ -43,19 +43,19 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| Dentodos      | 🚧 | [Acessar Dentodos](https://dentodos.com.br) | [Link do Projeto Dentodos](https://github.com/luanbiao/dentodos) |
-| Hamgnarok     | ⚠️ | [Baixar](https://#)      | [Link do Projeto Hamgnarok](https://github.com/luanbiao/hamgnarok) |
-| Apollo        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Link do Projeto Apollo](https://github.com/luanbiao/apollo) |
-| Tiotê         | 🚧 | [Acessar](https://tiote.com.br)     | [Link do Projeto Tiotê](https://github.com/luanbiao/tiote) |
-| PdfML         | 🕒 | Indisponível   | [Link do Projeto PdfML](https://github.com/luanbiao/pdfml) |
-| Athena        | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Link do Projeto Athena](https://github.com/luanbiao/athena) |
-| Ares          | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Link do Projeto Ares](https://github.com/luanbiao/ares) |
+| Dentodos      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
+| Hamgnarok     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
+| Apollo        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
+| Tiotê         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
+| PdfML         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
+| Athena        | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Athena](https://github.com/luanbiao/athena) |
+| Ares          | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Ares](https://github.com/luanbiao/ares) |
 | Desesquecedor | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | Indisponível |
-| Brascity      | ❌ | Indisponível    | [Link do Projeto Brascity](https://github.com/luanbiao/brascity) |
-| Fefute        | 🚧 | [Acessar](https://fefute.com.br)     | [Link do Projeto Fefute](https://github.com/luanbiao/fefute) |
-| Patriapp      | ❌ | Indisponível no momento     | [Link do Projeto Patriapp](https://github.com/luanbiao/patriapp) |
-| Magicselling  | ✅ | Privado | [Link do Projeto Magic Selling](https://github.com/luanbiao/magicselling) |
-| Vitamina Nerd | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Link do Projeto Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
+| Brascity      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
+| Fefute        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
+| Patriapp      | ❌ | Indisponível no momento     | [Patriapp](https://github.com/luanbiao/patriapp) |
+| Magicselling  | ✅ | Privado | [Magic Selling](https://github.com/luanbiao/magicselling) |
+| Vitamina Nerd | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
 🚧 Em desenvolvimento
 ⚠️ Em testes  
