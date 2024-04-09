@@ -32,7 +32,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
   <img align="center" alt="Athena" height="60" src="https://zeus.tiote.com.br/imgs/athena.png" style="margin-right: 10px;">
   <img align="center" alt="Ares" height="60" src="https://zeus.tiote.com.br/imgs/ares.png" style="margin-right: 10px;">
   <img align="center" alt="Desesquecedor" height="60" src="https://desesquecedor.com.br/img/logo2.webp" style="margin-right: 10px;"> 
-  <img align="center" alt="Brascity" height="60" src="[https://desesquecedor.com.br/uploads/1/anexos/logo.png](https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png)" style="margin-right: 10px;">  
+  <img align="center" alt="Brascity" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" style="margin-right: 10px;">  
   <img align="center" alt="Fefute" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo.png" style="margin-right: 10px;">  
   <img align="center" alt="Patriapp" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/logo_black.png" style="margin-right: 10px;">  
   <img align="center" alt="Magic Selling" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" style="margin-right: 10px;">  
