@@ -1,5 +1,3 @@
-## Ahhh, oláááá! 👋👋👋
-
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
@@ -20,23 +18,9 @@
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
 </div>
 
-Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principais projetos e seus respectivos status e links.
+## Ahhh, oláááá! 👋👋👋
 
-
-<div style="display: inline_block; padding: 10px;">
-  <img align="center" alt="Dentodos" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" style="margin-right: 10px; ">
-  <img align="center" alt="Hamgnarok" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" style="margin-right: 10px;">
-  <img align="center" alt="Apollo" height="40" src="https://zeus.tiote.com.br/imgs/apolo.png" style="margin-right: 10px;"> 
-  <img align="center" alt="Tiotê" height="40" src="https://tiote.com.br/tiote_t.png" style="margin-right: 10px;">
-  <img align="center" alt="Athena" height="40" src="https://zeus.tiote.com.br/imgs/athena.png" style="margin-right: 10px;">
-  <img align="center" alt="Ares" height="40" src="https://zeus.tiote.com.br/imgs/ares.png" style="margin-right: 10px;">
-  <img align="center" alt="Desesquecedor" height="40" src="https://desesquecedor.com.br/img/logo2.webp" style="margin-right: 10px;"> 
-  <img align="center" alt="Brascity" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" style="margin-right: 10px;">  
-  <img align="center" alt="Fefute" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" style="margin-right: 10px;">  
-  <img align="center" alt="Patriapp" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/logo_black.png" style="margin-right: 10px;">  
-  <img align="center" alt="Magic Selling" height="40" src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" style="margin-right: 10px;">  
-  <img align="center" alt="Vitamina Nerd" height="40" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px;">
-</div>
+Configura a lista dos meus principais projetos e seus respectivos status e links.
 
 <br/><br/>  
 
@@ -46,7 +30,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
 | <img src="https://zeus.tiote.com.br/imgs/apolo.png" height="40">        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
 | <img src="https://tiote.com.br/tiote_t.png" height="40">         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
-| <img src="https://via.placeholder.com/60" height="40">         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
+| <img src="https://via.placeholder.com/40" height="40">         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
 | <img src="https://zeus.tiote.com.br/imgs/athena.png" height="40">        | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
 | <img src="https://zeus.tiote.com.br/imgs/ares.png" height="40">          | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
 | <img src="https://desesquecedor.com.br/img/logo2.webp" height="40"> | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
