@@ -2,6 +2,8 @@
 
 Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principais projetos e seus respectivos status e links.
 
+### Nos vemos nas seguintes tecnologias:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
@@ -21,17 +23,8 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
   <img align="center" alt="Puppeteer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/luanbiao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-bi%C3%A3o-88028412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br/>
 
-## 
+## Conheça os projetos
 
 <div style="display: inline_block; padding: 10px;">
   <img align="center" alt="Dentodos" height="60" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" style="margin-right: 10px; ">
@@ -67,7 +60,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 | Magicselling  | ✅ | Privado | [Magic Selling](https://github.com/luanbiao/magicselling) |
 | Vitamina Nerd | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 🚧 Em desenvolvimento
 ⚠️ Em testes  
 🕒 Pendente
@@ -75,4 +68,11 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 ✅ Concluído
 </div>
 
+## Entre em contato
 
+<div> 
+  <a href="https://instagram.com/luanbiao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-bi%C3%A3o-88028412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
