@@ -1,6 +1,6 @@
 ## Ahhh, oláááá! 👋👋👋 
 
-<div style="display: inline_block; text-align: center;">
+<div style="display: inline_block; text-align: center;" align="center">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
