@@ -27,12 +27,12 @@ Configura a lista dos meus principais projetos e seus respectivos status e links
   | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [📥](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
 | <img src="https://zeus.tiote.com.br/imgs/apolo.png" height="40">        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
 | <img src="https://tiote.com.br/tiote_t.png" height="40">         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
 | <img src="https://via.placeholder.com/40" height="40">         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
-| <img src="https://zeus.tiote.com.br/imgs/athena.png" height="40">        | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
-| <img src="https://zeus.tiote.com.br/imgs/ares.png" height="40">          | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
+| <img src="https://zeus.tiote.com.br/imgs/athena.png" height="40">        | 🕒 | [📥](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
+| <img src="https://zeus.tiote.com.br/imgs/ares.png" height="40">          | 🕒 | [📥](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
 | <img src="https://desesquecedor.com.br/img/logo2.webp" height="40"> | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" height="40">      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" height="40">        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
