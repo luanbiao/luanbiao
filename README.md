@@ -39,24 +39,23 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
   <img align="center" alt="Vitamina Nerd" height="40" src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" style="margin-right: 10px;">
 </div>
 
-
 <br/><br/>  
 
   | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| ![Dentodos](https://desesquecedor.com.br/uploads/1/anexos/dentodos.png)      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
-| ![Hamgnarok](https://desesquecedor.com.br/uploads/1/anexos/icone.png)     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
-| ![Apollo](https://zeus.tiote.com.br/imgs/apolo.png)        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
-| ![Tiotê](https://tiote.com.br/tiote_t.png)         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
-| ![PdfML](https://via.placeholder.com/60)         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
-| ![Athena](https://zeus.tiote.com.br/imgs/athena.png)        | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
-| ![Ares](https://zeus.tiote.com.br/imgs/ares.png)          | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
-| ![Desesquecedor](https://desesquecedor.com.br/img/logo2.webp) | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
-| ![Brascity](https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png)      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
-| ![Fefute](https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png)        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
-| ![Patriapp](https://desesquecedor.com.br/uploads/1/anexos/logo_black.png)      | ❌ | Indisponível no momento     | [Patriapp](https://github.com/luanbiao/patriapp) |
-| ![Magic Selling](https://desesquecedor.com.br/uploads/1/anexos/magicselling.png)  | ✅ | Privado | [Magic Selling](https://github.com/luanbiao/magicselling) |
-| ![Vitamina Nerd](https://vitaminanerd.com.br/marcas/Logo%20PinT.png) | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
+| ![Dentodos](https://desesquecedor.com.br/uploads/1/anexos/dentodos.png =40x40)      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
+| ![Hamgnarok](https://desesquecedor.com.br/uploads/1/anexos/icone.png =40x40)     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
+| ![Apollo](https://zeus.tiote.com.br/imgs/apolo.png =40x40)        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
+| ![Tiotê](https://tiote.com.br/tiote_t.png =40x40)         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
+| ![PdfML](https://via.placeholder.com/60 =40x40)         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
+| ![Athena](https://zeus.tiote.com.br/imgs/athena.png =40x40)        | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
+| ![Ares](https://zeus.tiote.com.br/imgs/ares.png =40x40)          | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
+| ![Desesquecedor](https://desesquecedor.com.br/img/logo2.webp =40x40) | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
+| ![Brascity](https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png =40x40)      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
+| ![Fefute](https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png =40x40)        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
+| ![Patriapp](https://desesquecedor.com.br/uploads/1/anexos/logo_black.png =40x40)      | ❌ | Indisponível no momento     | [Patriapp](https://github.com/luanbiao/patriapp) |
+| ![Magic Selling](https://desesquecedor.com.br/uploads/1/anexos/magicselling.png =40x40)  | ✅ | Privado | [Magic Selling](https://github.com/luanbiao/magicselling) |
+| ![Vitamina Nerd](https://vitaminanerd.com.br/marcas/Logo%20PinT.png =40x40) | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
 <div style="display: inline_block"><br>
 🚧 Em desenvolvimento
@@ -65,7 +64,6 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 ❌ Cancelado
 ✅ Concluído
 </div>
-
 
 ## Entre em contato
 
