@@ -22,7 +22,7 @@
 <br/>
 Sou Luan e é um prazer tê-lo aqui. Sou apaixonado por tecnologia com experiência em uma ampla gama de tecnologias, meu foco é criar soluções inovadoras que atendam às necessidades e impulsionem o sucesso de projetos. 🤖
 <br/><br/>
-Confira a lista dos meus principais projetos e seus respectivos status e links: <br/>
+Confira a lista dos meus principais projetos e seus respectivos status e links: <br/><br/>
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
