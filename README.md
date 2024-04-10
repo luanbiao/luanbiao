@@ -26,7 +26,7 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-<img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">  | <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
 | <img src="https://zeus.tiote.com.br/imgs/apolo.png" height="40">        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
 | <img src="https://tiote.com.br/tiote_t.png" height="40">         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
