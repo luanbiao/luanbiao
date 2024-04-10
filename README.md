@@ -1,4 +1,3 @@
-<div align="center">
 ## Ahhh, oláááá! 👋👋👋 
 
 <div style="display: inline_block; text-align: center;">
@@ -27,7 +26,7 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| <img align="center" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
 | <img src="https://zeus.tiote.com.br/imgs/apolo.png" height="40">        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
 | <img src="https://tiote.com.br/tiote_t.png" height="40">         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
@@ -57,6 +56,4 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-bi%C3%A3o-88028412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 </div>
