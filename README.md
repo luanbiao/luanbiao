@@ -28,7 +28,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 <div> 
   <a href="https://instagram.com/luanbiao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luanbiao@hotmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://camo.githubusercontent.com/f148fbadd1079779fa8fd767ea0f3ba10e9453e8babb387bfbd660a5fe182e2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486f746d61696c2d3030373844343f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6c75697a6361726c6f735f6162626f747440686f746d61696c2e636f6d" target="_blank"></a>
+  <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-bi%C3%A3o-88028412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 
