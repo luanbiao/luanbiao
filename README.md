@@ -28,7 +28,7 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 <div> 
   <a href="https://instagram.com/luanbiao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luanbiao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-bi%C3%A3o-88028412b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 
