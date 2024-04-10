@@ -11,11 +11,6 @@
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">&nbsp;
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
-  <img align="center" alt="JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg">&nbsp;
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;
-  <img align="center" alt="Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">&nbsp;
-  <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
-  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">&nbsp;
   <img align="center" alt="Puppeteer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg">&nbsp;
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
 </div>
