@@ -1,4 +1,5 @@
 ## Ahhh, oláááá! 👋👋👋
+
 <div style="display: inline_block; text-align: center;">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
@@ -23,8 +24,7 @@ Sou Luan e é um prazer tê-lo aqui. Sou apaixonado por tecnologia com experiên
 
 Configura a lista dos meus principais projetos e seus respectivos status e links:
 
-
-  | Projeto       | Status | Link | Repositório                                      |
+| Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
 | <img align="center" src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | [Dentodos](https://github.com/luanbiao/dentodos) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [📥](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
