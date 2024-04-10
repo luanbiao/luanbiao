@@ -49,9 +49,9 @@ Este é o meu portfólio de projetos, onde mantenho uma lista dos meus principai
 | Apollo        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
 | Tiotê         | 🚧 | [Acessar](https://tiote.com.br)     | [Tiotê](https://github.com/luanbiao/tiote) |
 | PdfML         | 🕒 | Indisponível   | [PdfML](https://github.com/luanbiao/pdfml) |
-| Athena        | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Athena](https://github.com/luanbiao/athena) |
-| Ares          | 🕒 | [Baixar](https://zeus.tiote.com.br)    | [Ares](https://github.com/luanbiao/ares) |
-| Desesquecedor | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | Indisponível |
+| Athena        | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/athena.apk)    | [Athena](https://github.com/luanbiao/athena) |
+| Ares          | 🕒 | [Baixar](https://zeus.tiote.com.br/apps/ares.apk)    | [Ares](https://github.com/luanbiao/ares) |
+| Desesquecedor | 🚧 | 🟢 [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
 | Brascity      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
 | Fefute        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
 | Patriapp      | ❌ | Indisponível no momento     | [Patriapp](https://github.com/luanbiao/patriapp) |
