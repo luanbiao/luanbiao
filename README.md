@@ -28,7 +28,6 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 | <img src="https://desesquecedor.com.br/img/logo2.webp" height="40"> | 🚧 | [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" height="40">      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" height="40">        | 🚧 | [Acessar](https://fefute.com.br)     | [Fefute](https://github.com/luanbiao/fefute) |
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_black.png" height="40">      | ❌ | Indisponível    | [Patriapp](https://github.com/luanbiao/patriapp) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" height="40">  | ✅ | Indisponível | [Magic Selling](https://github.com/luanbiao/magicselling) |
 | <img src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" height="40"> | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
