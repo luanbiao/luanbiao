@@ -13,7 +13,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
 </div>
 <br/>
-Sou Luan e é um prazer tê-lo aqui. Sou apaixonado por tecnologia com experiência em uma ampla gama de tecnologias, meu foco é criar soluções inovadoras que atendam às necessidades e impulsionem o sucesso de projetos 🤖
+Sou Luan e é um prazer tê-lo aqui. Sou apaixonado por programação com experiência em uma ampla gama de tecnologias, meu foco é criar soluções inovadoras que atendam às necessidades e impulsionem o sucesso de projetos 🤖
 <br/><br/>
 Confira a lista dos meus principais projetos e seus respectivos status e links: <br/><br/>
 
