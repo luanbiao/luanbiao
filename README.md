@@ -10,7 +10,6 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">&nbsp;
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
 </div>
 <br/>
 Sou Luan e é um prazer tê-lo aqui. Sou apaixonado por programação com experiência em uma ampla gama de tecnologias, meu foco é criar soluções inovadoras que atendam às necessidades e impulsionem o sucesso de projetos 🤖
