@@ -17,6 +17,9 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/combati.png" height="40">      | 🚧 | [Acessar](https://dentodos.com.br/sucam) | [suCam](https://github.com/luanbiao/sucam)|
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/combati.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Fazenda Financeira](https://github.com/luanbiao/combati)|
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/fazendafinanceira.png" height="40">      | 🚧 | [Acessar](https://fazendafinanceira.com.br) | [Fazenda Financeira](https://github.com/luanbiao/fazenda-financeira)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | Indisponível |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
 | <img src="https://zeus.tiote.com.br/imgs/apolo.png" height="40">        | ⚠️ | [Acessar](https://apollo.tiote.com.br)     | [Apollo](https://github.com/luanbiao/apollo) |
