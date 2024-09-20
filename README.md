@@ -8,6 +8,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&nbsp;
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;
 </div>
 <br/>
@@ -17,8 +18,8 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/combati.png" height="40">      | 🚧 | [Acessar](https://dentodos.com.br/sucam) | [suCam](https://github.com/luanbiao/sucam)|
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/combati.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Fazenda Financeira](https://github.com/luanbiao/combati)|
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/sucamicone.png" height="40">      | 🚧 | [Acessar](https://dentodos.com.br/sucam) | [suCam](https://github.com/luanbiao/sucam)|
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/logo.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Fazenda Financeira](https://github.com/luanbiao/combati)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/fazendafinanceira.png" height="40">      | 🚧 | [Acessar](https://fazendafinanceira.com.br) | [Fazenda Financeira](https://github.com/luanbiao/fazenda-financeira)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/dentodos.png" height="40">      | 🚧 | [Dentodos](https://dentodos.com.br) | Indisponível |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/icone.png" height="40">     | ⚠️ | [Baixar](https://#)      | [Hamgnarok](https://github.com/luanbiao/hamgnarok) |
