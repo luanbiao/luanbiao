@@ -18,6 +18,9 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
+| <img src="https://github.com/luanbiao/PyPngToIco/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyPngToIco/releases/tag/PngToIco) | [PyPngToIco](https://github.com/luanbiao/PyPngToIco)|
+| <img src="https://github.com/luanbiao/PyFolderList/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyFolderList/releases/tag/FolderList) | [PyFolderList](https://github.com/luanbiao/PyFolderList)|
+| <img src="https://github.com/luanbiao/PyRemoveBG/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyRemoveBG/releases/tag/Vers%C3%A3o) | [PyRemoveBG](https://github.com/luanbiao/PyRemoveBG)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/hefesto_150.png" height="40">      | 🚧 | [Acessar](https://mtube.tiote.com.br) | [M-tube](https://github.com/luanbiao/mtube)|
 | <img src="https://github.com/luanbiao/combaTI/raw/main/wwwroot/img/logo.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Combati](https://github.com/luanbiao/combati)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/favicon_original.png" height="40">      | 🚧 | [Acessar](https://fazendafinanceira.com.br) | [Fazenda Financeira](https://github.com/luanbiao/fazenda-financeira)|
