@@ -18,8 +18,8 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| <img src="https://github.com/luanbiao/PyPngToIco/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyPngToIco/releases/tag/PngToIco) | [PyPngToIco](https://github.com/luanbiao/PyPngToIco)|
-| <img src="https://github.com/luanbiao/PyFolderList/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyFolderList/releases/tag/FolderList) | [PyFolderList](https://github.com/luanbiao/PyFolderList)|
+| <img src="https://github.com/luanbiao/PyPngToIco/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyPngToIco/releases/download/PngToIco/pypngtoico.exe) | [PyPngToIco](https://github.com/luanbiao/PyPngToIco)|
+| <img src="https://github.com/luanbiao/PyFolderList/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyFolderList/releases/download/FolderList/PyFolderList.exe) | [PyFolderList](https://github.com/luanbiao/PyFolderList)|
 | <img src="https://github.com/luanbiao/PyRemoveBG/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyRemoveBG/releases/download/Vers%C3%A3o/PyRemoveBG.exe) | [PyRemoveBG](https://github.com/luanbiao/PyRemoveBG)|
 | <img src="https://github.com/luanbiao/m-tube/blob/main/YoutubeDownloaderWebApp/Assets/logow.png" height="40">      | 🚧 | [Acessar](https://mtube.tiote.com.br) | [M-tube](https://github.com/luanbiao/m-tube)|
 | <img src="https://github.com/luanbiao/combaTI/raw/main/wwwroot/img/logo.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Combati](https://github.com/luanbiao/combati)|
