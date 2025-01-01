@@ -19,7 +19,7 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/hefesto_150.png" height="40">      | 🚧 | [Acessar](https://mtube.tiote.com.br) | [M-tube](https://github.com/luanbiao/mtube)|
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/logo.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Combati](https://github.com/luanbiao/combati)|
+| <img src="[https://desesquecedor.com.br/uploads/1/anexos/logo.png](https://github.com/luanbiao/combaTI/raw/main/wwwroot/img/logo.png)" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Combati](https://github.com/luanbiao/combati)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/favicon_original.png" height="40">      | 🚧 | [Acessar](https://fazendafinanceira.com.br) | [Fazenda Financeira](https://github.com/luanbiao/fazenda-financeira)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/hefesto_150.png" height="40">      | 🚧 | [Acessar](https://hefesto.tiote.com.br) | [Hefesto](https://github.com/luanbiao/hefesto)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/sucamicone.png" height="40">      | 🚧 | [Acessar](https://dentodos.com.br/sucam) | [suCam](https://github.com/luanbiao/sucam)|
