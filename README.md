@@ -18,10 +18,10 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 
 | Projeto       | Status | Link | Repositório                                      |
 |---------------|--------------|----------------|-------------------------------------------|
-| <img src="https://github.com/luanbiao/PyPngToIco/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyPngToIco/releases/tag/PngToIco) | [PyPngToIco](https://github.com/luanbiao/PyPngToIco)|
-| <img src="https://github.com/luanbiao/PyFolderList/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyFolderList/releases/tag/FolderList) | [PyFolderList](https://github.com/luanbiao/PyFolderList)|
-| <img src="https://github.com/luanbiao/PyRemoveBG/raw/main/icone.png" height="40">      | 🚧 | [Baixar](https://github.com/luanbiao/PyRemoveBG/releases/tag/Vers%C3%A3o) | [PyRemoveBG](https://github.com/luanbiao/PyRemoveBG)|
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/hefesto_150.png" height="40">      | 🚧 | [Acessar](https://mtube.tiote.com.br) | [M-tube](https://github.com/luanbiao/mtube)|
+| <img src="https://github.com/luanbiao/PyPngToIco/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyPngToIco/releases/tag/PngToIco) | [PyPngToIco](https://github.com/luanbiao/PyPngToIco)|
+| <img src="https://github.com/luanbiao/PyFolderList/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyFolderList/releases/tag/FolderList) | [PyFolderList](https://github.com/luanbiao/PyFolderList)|
+| <img src="https://github.com/luanbiao/PyRemoveBG/raw/main/icone.png" height="40">      | 🟢 | [Baixar](https://github.com/luanbiao/PyRemoveBG/releases/tag/Vers%C3%A3o) | [PyRemoveBG](https://github.com/luanbiao/PyRemoveBG)|
+| <img src="https://github.com/luanbiao/m-tube/blob/main/YoutubeDownloaderWebApp/Assets/logo.png" height="40">      | 🚧 | [Acessar](https://mtube.tiote.com.br) | [M-tube](https://github.com/luanbiao/m-tube)|
 | <img src="https://github.com/luanbiao/combaTI/raw/main/wwwroot/img/logo.png" height="40">      | 🚧 | [Acessar](https://combati.tiote.com.br) | [Combati](https://github.com/luanbiao/combati)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/favicon_original.png" height="40">      | 🚧 | [Acessar](https://fazendafinanceira.com.br) | [Fazenda Financeira](https://github.com/luanbiao/fazenda-financeira)|
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/hefesto_150.png" height="40">      | 🚧 | [Acessar](https://hefesto.tiote.com.br) | [Hefesto](https://github.com/luanbiao/hefesto)|
@@ -35,8 +35,8 @@ Confira a lista dos meus principais projetos e seus respectivos status e links: 
 | <img src="https://desesquecedor.com.br/img/logo2.webp" height="40"> | 🚧 | [Acessar](https://desesquecedor.com.br)    | [Desesquecedor](https://github.com/luanbiao/desesquecedor_preview) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_brascity.png" height="40">      | ❌ | Indisponível    | [Brascity](https://github.com/luanbiao/brascity) |
 | <img src="https://desesquecedor.com.br/uploads/1/anexos/logo_fefute.png" height="40">        | 🚧 | [Acessar](https://fefute.com.br)     | Indisponível |
-| <img src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" height="40">  | ✅ | Indisponível | [Magic Selling](https://github.com/luanbiao/magicselling) |
-| <img src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" height="40"> | ✅ | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
+| <img src="https://desesquecedor.com.br/uploads/1/anexos/magicselling.png" height="40">  | 🟢 | Indisponível | [Magic Selling](https://github.com/luanbiao/magicselling) |
+| <img src="https://vitaminanerd.com.br/marcas/Logo%20PinT.png" height="40"> | 🟢 | [Acessar](https://vitaminanerd.com.br)      | [Vitamina Nerd](https://github.com/luanbiao/vitaminanerd) |
 
 <div style="display: inline_block"><br>
 🚧 Em desenvolvimento
